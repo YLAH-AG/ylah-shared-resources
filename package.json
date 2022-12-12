@@ -1,0 +1,8 @@
+{
+  "name": "ylah-shared-resources",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
