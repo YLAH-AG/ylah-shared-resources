@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "rootDir": ".",
+    "outDir": ".",
+    "strict": true,
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
