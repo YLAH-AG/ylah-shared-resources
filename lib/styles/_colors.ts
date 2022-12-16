@@ -1,4 +1,5 @@
 const colors = {
+  // Primary & Secondary Colors
   blue100: '#305971',
   blue90: '#356781',
   blue80: '#4c788f',
@@ -10,28 +11,38 @@ const colors = {
   blue20: '#d2dde3',
   blue10: '#e9eef1',
   blue7: '#f4f7f8',
+  blueExtraDark: '#203C4C',
+  blueChipDarkBlue: '#26485A',
 
-  offBlack: '#1c1d1d',
-  offWhite: '#fefefe',
-
-  grey2: '#809294',
-  grey3: '#555555',
-  greyLightM: '#e0e0e0',
-  greyLightL: '#d0d1d2',
-  greyMedWcag: '#4e595a',
-
+  mintMain: '#EBF8F8',
   mintLightMint: '#f6fbfb',
-  mint3Light: '#fafdfd',
-  mintVeryLight: '#fafdfd',
-  mint4: '#f4fafa',
+  mintMedium: '#F4FAFA',
+  mintVeryLight: '#FAFDFD',
 
-  orange: '#ffc857',
-  orangeLight: '#fff4dd',
+  // Semantic Color
+  semanticOrange: '#FFC857',
+  semanticOrangeLight: '#FFF4DD',
+  semanticRed: '#E5323B',
+  semanticRedLight: '#FEF5F5',
+  semanticRedDarkText: '#A21A21',
 
-  red: '#e5323b',
-  redLight: '#fef5f5',
+  // Achromatic
+  achromaticOffWhite: '#FEFEFE',
+  achromaticOffBlack: '#1C1D1D',
 
-  mdsLightBeerus: '#EBEBEB',
+  achromaticGrey100: '#4F4F4F',
+  achromaticGrey80: '#828282',
+  achromaticGrey60: '#D0D1D2',
+  achromaticGrey50: '#E0E0E0',
+  achromaticGrey30: '#EBEBEB',
+  achromaticGrey20: '#F2F2F2',
+  achromaticGrey10: '#FAFBFC',
+
+  // Off-grays
+  offGraysDark: '#4C5657',
+  offGraysMediumWcag: '#4E595A',
+  offGraysNavigation: '#5C7379',
+  offGraysLightIcons: '#809294',
 } as const;
 
 export default colors;

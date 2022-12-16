@@ -1,3 +1,5 @@
+// Primary & Secondary Colors
+
 $blue-100: #305971;
 $blue-90: #356781;
 $blue-80: #4c788f;
@@ -9,25 +11,35 @@ $blue-30: #bcccd5;
 $blue-20: #d2dde3;
 $blue-10: #e9eef1;
 $blue-7: #f4f7f8;
+$blue-extra-dark: #203C4C;
+$blue-chip-dark-blue: #26485A;
 
-$offBlack: #1c1d1d;
-$offWhite: #fefefe;
-
-$grey-2: #809294;
-$grey-3: #555555;
-$grey-light-m: #e0e0e0;
-$grey-light-l: #d0d1d2;
-$grey-med-wcag: #4e595a;
-
+$mint-main: #EBF8F8;
 $mint-light-mint: #f6fbfb;
-$mint-3-light: #fafdfd;
-$mint-very-light: #fafdfd;
-$mint-4: #f4fafa;
+$mint-medium: #F4FAFA;
+$mint-very-light: #FAFDFD;
 
-$orange: #ffc857;
-$orange-light: #fff4dd;
+// Semantic Color
+$semantic-orange: #FFC857;
+$semantic-orange-light: #FFF4DD;
+$semantic-red: #E5323B;
+$semantic-red-light: #FEF5F5;
+$semantic-red-dark-text: #A21A21;
 
-$red: #e5323b;
-$red-light: #fef5f5;
+// Achromatic
+$achromatic-off-white: #FEFEFE;
+$achromatic-off-black: #1C1D1D;
 
-$mds-light-beerus: #EBEBEB;
+$achromatic-grey-100: #4F4F4F;
+$achromatic-grey-80: #828282;
+$achromatic-grey-60: #D0D1D2;
+$achromatic-grey-50: #E0E0E0;
+$achromatic-grey-30: #EBEBEB;
+$achromatic-grey-20: #F2F2F2;
+$achromatic-grey-10: #FAFBFC;
+
+// Off-grays
+$off-grays-dark: #4C5657;
+$off-grays-medium-wcag: #4E595A;
+$off-grays-navigation: #5C7379;
+$off-grays-light-icons: #809294;
