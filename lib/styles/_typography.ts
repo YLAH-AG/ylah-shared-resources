@@ -48,6 +48,12 @@ const typography = {
     letterSpacing: 0,
   },
 
+  DM_12_24_Link_B: {
+    fontSize: 12,
+    fontWeight: "700",
+    lineHeight: 16,
+  },
+
   DM_Reg_14_32_Table: {
     fontSize: 14,
     fontWeight: "400",
@@ -81,6 +87,12 @@ const typography = {
     fontWeight: "400",
     lineHeight: 24,
     letterSpacing: 0,
+  },
+
+  DM_14_24_Link_B: {
+    fontSize: 14,
+    fontWeight: "700",
+    lineHeight: 24,
   },
 
   DM_Med_16_16: {
