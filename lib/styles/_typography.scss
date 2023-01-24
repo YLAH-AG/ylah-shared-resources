@@ -274,6 +274,17 @@
   @include DM_Med_20_24();
 }
 
+@mixin DM_20_24_Bold {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.DM_20_24_Bold {
+  @include DM_20_24_Bold();
+}
+
 @mixin DM_Med_24_24 {
   font-size: 24px;
   font-weight: 500;

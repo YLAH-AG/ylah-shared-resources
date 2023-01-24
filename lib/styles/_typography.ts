@@ -173,6 +173,13 @@ const typography = {
     letterSpacing: 0,
   },
 
+    DM_20_24_Bold: {
+    fontSize: 20,
+    fontWeight: "700",
+    lineHeight: 24,
+    letterSpacing: 0,
+  },
+
   DM_Med_24_24: {
     fontSize: 24,
     fontWeight: "500",

@@ -148,6 +148,12 @@ declare const typography: {
         readonly lineHeight: 24;
         readonly letterSpacing: 0;
     };
+    readonly DM_20_24_Bold: {
+        readonly fontSize: 20;
+        readonly fontWeight: "700";
+        readonly lineHeight: 24;
+        readonly letterSpacing: 0;
+    };
     readonly DM_Med_24_24: {
         readonly fontSize: 24;
         readonly fontWeight: "500";
