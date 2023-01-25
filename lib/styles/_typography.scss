@@ -77,6 +77,16 @@
   @include DM_Med_12_16();
 }
 
+@mixin DM_12_24_Link_B {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.DM_12_24_Link_B {
+  @include DM_12_24_Link_B();
+}
+
 @mixin DM_Reg_14_32_Table {
   font-size: 14px;
   font-weight: 400;
@@ -130,6 +140,16 @@
 
 .DM_Reg_14_24 {
   @include DM_Reg_14_24();
+}
+
+@mixin DM_14_24_Link_B {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.DM_14_24_Link_B {
+  @include DM_14_24_Link_B();
 }
 
 @mixin DM_Med_16_16 {
@@ -252,6 +272,17 @@
 
 .DM_Med_20_24 {
   @include DM_Med_20_24();
+}
+
+@mixin DM_20_24_Bold {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.DM_20_24_Bold {
+  @include DM_20_24_Bold();
 }
 
 @mixin DM_Med_24_24 {

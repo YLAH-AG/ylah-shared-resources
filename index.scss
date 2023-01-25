@@ -71,6 +71,7 @@
     }
 
     .color {
+      flex-shrink: 0;
       height: 64px;
       width: 64px;
       border-radius: 4px;
@@ -163,6 +164,10 @@
 
     .semantic-red-dark-text {
       background-color: $semantic-red-dark-text;
+    }
+
+    .semantic-extra-dark-red {
+      background-color: $semantic-extra-dark-red;
     }
 
     .achromatic-off-white {
