@@ -15,7 +15,7 @@ const colors = {
   blueChipDarkBlue: '#26485A',
 
   mintMain: '#EBF8F8',
-  mintLightMint: '#f6fbfb',
+  mintBackground: '#f6fbfb',
   mintMedium: '#F4FAFA',
   mintVeryLight: '#FAFDFD',
 

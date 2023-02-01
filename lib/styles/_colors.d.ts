@@ -13,7 +13,7 @@ declare const colors: {
     readonly blueExtraDark: "#203C4C";
     readonly blueChipDarkBlue: "#26485A";
     readonly mintMain: "#EBF8F8";
-    readonly mintLightMint: "#f6fbfb";
+    readonly mintBackground: "#f6fbfb";
     readonly mintMedium: "#F4FAFA";
     readonly mintVeryLight: "#FAFDFD";
     readonly semanticOrange: "#FFC857";
