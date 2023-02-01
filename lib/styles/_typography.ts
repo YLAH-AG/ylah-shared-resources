@@ -159,6 +159,13 @@ const typography = {
     letterSpacing: 0,
   },
 
+  DM_Reg_18_28: {
+    fontWeight: 400,
+    fontSize: 18,
+    lineHeight: 28,
+    letterSpacing: 0,
+  },
+
   DM_Med_18_24: {
     fontSize: 18,
     fontWeight: "500",
@@ -173,7 +180,7 @@ const typography = {
     letterSpacing: 0,
   },
 
-    DM_20_24_Bold: {
+  DM_20_24_Bold: {
     fontSize: 20,
     fontWeight: "700",
     lineHeight: 24,

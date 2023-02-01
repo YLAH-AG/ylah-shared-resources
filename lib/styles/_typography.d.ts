@@ -136,6 +136,12 @@ declare const typography: {
         readonly lineHeight: 24;
         readonly letterSpacing: 0;
     };
+    readonly DM_Reg_18_28: {
+        readonly fontWeight: 400;
+        readonly fontSize: 18;
+        readonly lineHeight: 28;
+        readonly letterSpacing: 0;
+    };
     readonly DM_Med_18_24: {
         readonly fontSize: 18;
         readonly fontWeight: "500";
