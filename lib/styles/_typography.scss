@@ -152,6 +152,18 @@
   @include DM_14_24_Link_B();
 }
 
+
+@mixin DM_Reg_18_28 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+.DM_Reg_18_28 {
+  @include DM_Reg_18_28();
+}
+
 @mixin DM_Med_16_16 {
   font-size: 16px;
   font-weight: 500;
