@@ -80,6 +80,7 @@ declare const typography: {
         readonly fontSize: 14;
         readonly fontWeight: "700";
         readonly lineHeight: 24;
+        readonly letterSpacing: 0;
     };
     readonly DM_Med_16_16: {
         readonly fontSize: 16;
