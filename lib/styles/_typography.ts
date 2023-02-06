@@ -93,6 +93,7 @@ const typography = {
     fontSize: 14,
     fontWeight: "700",
     lineHeight: 24,
+    letterSpacing: 0,
   },
 
   DM_Med_16_16: {
