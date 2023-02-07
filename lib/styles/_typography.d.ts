@@ -138,7 +138,7 @@ declare const typography: {
         readonly letterSpacing: 0;
     };
     readonly DM_Reg_18_28: {
-        readonly fontWeight: 400;
+        readonly fontWeight: "400";
         readonly fontSize: 18;
         readonly lineHeight: 28;
         readonly letterSpacing: 0;

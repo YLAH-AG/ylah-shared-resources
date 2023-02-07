@@ -161,7 +161,7 @@ const typography = {
   },
 
   DM_Reg_18_28: {
-    fontWeight: 400,
+    fontWeight: "400",
     fontSize: 18,
     lineHeight: 28,
     letterSpacing: 0,
