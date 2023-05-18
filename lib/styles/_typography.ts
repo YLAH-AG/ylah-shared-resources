@@ -1,50 +1,31 @@
 const typography = {
-  DM_Med_8_8: {
+  DM_Med_8: {
     fontSize: 8,
     fontWeight: "500",
-    lineHeight: 8,
     letterSpacing: 0,
   },
 
-  DM_Reg_10_10: {
+  DM_Reg_10: {
     fontSize: 10,
     fontWeight: "400",
-    lineHeight: 10,
     letterSpacing: 0,
   },
 
-  DM_Med_10_12: {
+  DM_Med_10: {
     fontSize: 10,
     fontWeight: "500",
-    lineHeight: 12,
     letterSpacing: 0,
   },
 
-  DM_Reg_12_12_Chip: {
+  DM_Reg_12: {
     fontSize: 12,
     fontWeight: "400",
-    lineHeight: 12,
     letterSpacing: 0,
   },
 
-  DM_Med_12_12_Chip: {
+  DM_Med_12: {
     fontSize: 12,
     fontWeight: "500",
-    lineHeight: 12,
-    letterSpacing: 0,
-  },
-
-  DM_Reg_12_16: {
-    fontSize: 12,
-    fontWeight: "400",
-    lineHeight: 16,
-    letterSpacing: 0,
-  },
-
-  DM_Med_12_16: {
-    fontSize: 12,
-    fontWeight: "500",
-    lineHeight: 16,
     letterSpacing: 0,
   },
 
@@ -61,24 +42,15 @@ const typography = {
     letterSpacing: 0,
   },
 
-  DM_Med_14_20: {
+  DM_Med_14: {
     fontSize: 14,
     fontWeight: "500",
-    lineHeight: 20,
     letterSpacing: 0,
   },
 
-  DM_Med_14_16: {
-    fontSize: 14,
-    fontWeight: "500",
-    lineHeight: 16,
-    letterSpacing: 0,
-  },
-
-  DM_Reg_14_16: {
+  DM_Reg_14: {
     fontSize: 14,
     fontWeight: "400",
-    lineHeight: 16,
     letterSpacing: 0,
   },
 
@@ -96,31 +68,15 @@ const typography = {
     letterSpacing: 0,
   },
 
-  DM_Med_16_16: {
+  DM_Med_16: {
     fontSize: 16,
     fontWeight: "500",
-    lineHeight: 16,
     letterSpacing: 0,
   },
 
-  DM_Btn_16_16_Med: {
-    fontSize: 16,
-    fontWeight: "500",
-    lineHeight: 16,
-    letterSpacing: 0,
-  },
-
-  DM_Reg_16_16_Chip: {
+  DM_Reg_16: {
     fontSize: 16,
     fontWeight: "400",
-    lineHeight: 16,
-    letterSpacing: 0,
-  },
-
-  DM_Reg_16_20: {
-    fontSize: 16,
-    fontWeight: "400",
-    lineHeight: 20,
     letterSpacing: 0,
   },
 
@@ -167,45 +123,39 @@ const typography = {
     letterSpacing: 0,
   },
 
-  DM_Med_18_24: {
+  DM_Med_18: {
     fontSize: 18,
     fontWeight: "500",
-    lineHeight: 24,
     letterSpacing: 0,
   },
 
-  DM_Med_20_24: {
+  DM_Med_20: {
     fontSize: 20,
     fontWeight: "500",
-    lineHeight: 24,
     letterSpacing: 0,
   },
 
-  DM_20_24_Bold: {
+  DM_20_Bold: {
     fontSize: 20,
     fontWeight: "700",
-    lineHeight: 24,
     letterSpacing: 0,
   },
 
-  DM_Med_24_24: {
+  DM_Med_24: {
     fontSize: 24,
     fontWeight: "500",
-    lineHeight: 24,
     letterSpacing: 0,
   },
 
-  DM_Med_32_32: {
+  DM_Med_32: {
     fontSize: 32,
     fontWeight: "500",
-    lineHeight: 32,
     letterSpacing: 0,
   },
 
-  DM_Reg_32_32: {
+  DM_Reg_32: {
     fontSize: 32,
     fontWeight: "400",
-    lineHeight: 32,
     letterSpacing: 0,
   },
 
