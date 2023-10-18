@@ -189,6 +189,7 @@ const typography = {
   },
 
   DM_Bold_14: { fontSize: 14, fontWeight: "700", letterSpacing: 0 },
+  DM_Bold_20: { fontSize: 20, fontWeight: "700", letterSpacing: 0 },
 
   DM_Med_14_24: {
     fontSize: 14,

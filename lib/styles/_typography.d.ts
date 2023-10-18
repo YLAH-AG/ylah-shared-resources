@@ -164,6 +164,11 @@ declare const typography: {
         readonly fontWeight: "700";
         readonly letterSpacing: 0;
     };
+    readonly DM_Bold_20: {
+        readonly fontSize: 20;
+        readonly fontWeight: "700";
+        readonly letterSpacing: 0;
+    };
     readonly DM_Med_14_24: {
         readonly fontSize: 14;
         readonly fontWeight: "500";
