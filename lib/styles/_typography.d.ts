@@ -159,6 +159,16 @@ declare const typography: {
         readonly letterSpacing: "0.03em";
         readonly textTransform: "uppercase";
     };
+    readonly DM_Bold_14: {
+        readonly fontSize: 14;
+        readonly fontWeight: "700";
+        readonly letterSpacing: 0;
+    };
+    readonly DM_Bold_20: {
+        readonly fontSize: 20;
+        readonly fontWeight: "700";
+        readonly letterSpacing: 0;
+    };
     readonly DM_Med_14_24: {
         readonly fontSize: 14;
         readonly fontWeight: "500";
