@@ -385,3 +385,25 @@
 .DM_Med_14_24 {
   @include DM_Med_14_24();
 }
+
+@mixin DM_Bold_14_16 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+
+.DM_Bold_14_16 {
+  @include DM_Bold_14_16();
+}
+
+@mixin DM_Bold_20_24 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.DM_Bold_20_24 {
+  @include DM_Bold_20_24();
+}
