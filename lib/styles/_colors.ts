@@ -49,7 +49,7 @@ const colors = {
   offGraysLightIcons: '#809294',
 
   // Evaluation
-  evaluationlightGreen: #d8e7b9,
+  evaluationlightGreen: '#d8e7b9',
 } as const;
 
 export default colors;
