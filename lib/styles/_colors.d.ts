@@ -37,5 +37,6 @@ declare const colors: {
     readonly offGraysMediumWcag: "#4E595A";
     readonly offGraysNavigation: "#5C7379";
     readonly offGraysLightIcons: "#809294";
+    readonly evaluationlightGreen: "#d8e7b9";
 };
 export default colors;
