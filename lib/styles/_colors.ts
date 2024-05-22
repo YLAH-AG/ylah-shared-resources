@@ -47,6 +47,9 @@ const colors = {
   offGraysMediumWcag: '#4E595A',
   offGraysNavigation: '#5C7379',
   offGraysLightIcons: '#809294',
+
+  // Evaluation
+  evaluationlightGreen: #d8e7b9,
 } as const;
 
 export default colors;
