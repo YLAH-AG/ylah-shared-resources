@@ -50,6 +50,10 @@ const colors = {
 
   // Evaluation
   evaluationlightGreen: '#d8e7b9',
+  evaluationLightBlue: '#CEDBF2',
+
+  // Outline
+  outlineOrange: '#AD883B',
 } as const;
 
 export default colors;
