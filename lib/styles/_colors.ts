@@ -27,6 +27,7 @@ const colors = {
   semanticRedDarkText: '#A21A21',
   semanticExtraDarkRed: '#891E23',
 
+  semanticGreenLight: '#E6ECE3',
   semanticGreen: '#349E02',
   semanticGreenDark: '#2B621B',
 
@@ -49,8 +50,12 @@ const colors = {
   offGraysLightIcons: '#809294',
 
   // Evaluation
-  evaluationlightGreen: '#d8e7b9',
+  evaluationMainRed8: '#c47472',
+  evaluationMainPurple6: '#968491',
   evaluationLightBlue: '#CEDBF2',
+  evaluationMainBlue4: '#778c9d',
+  evaluationlightGreen: '#d8e7b9',
+  evaluationMainGreen2: '#adcc9c',
 
   // Outline
   outlineOrange: '#AD883B',

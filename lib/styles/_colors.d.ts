@@ -22,6 +22,7 @@ declare const colors: {
     readonly semanticRedLight: "#FEF5F5";
     readonly semanticRedDarkText: "#A21A21";
     readonly semanticExtraDarkRed: "#891E23";
+    readonly semanticGreenLight: "#E6ECE3";
     readonly semanticGreen: "#349E02";
     readonly semanticGreenDark: "#2B621B";
     readonly achromaticOffWhite: "#FEFEFE";
@@ -37,8 +38,12 @@ declare const colors: {
     readonly offGraysMediumWcag: "#4E595A";
     readonly offGraysNavigation: "#5C7379";
     readonly offGraysLightIcons: "#809294";
-    readonly evaluationlightGreen: "#d8e7b9";
+    readonly evaluationMainRed8: "#c47472";
+    readonly evaluationMainPurple6: "#968491";
     readonly evaluationLightBlue: "#CEDBF2";
+    readonly evaluationMainBlue4: "#778c9d";
+    readonly evaluationlightGreen: "#d8e7b9";
+    readonly evaluationMainGreen2: "#adcc9c";
     readonly outlineOrange: "#AD883B";
 };
 export default colors;
