@@ -27,6 +27,7 @@ const colors = {
   semanticRedDarkText: '#A21A21',
   semanticExtraDarkRed: '#891E23',
 
+  semanticGreenLight: '#E6ECE3',
   semanticGreen: '#349E02',
   semanticGreenDark: '#2B621B',
 

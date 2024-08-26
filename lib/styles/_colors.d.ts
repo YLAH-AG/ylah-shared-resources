@@ -22,6 +22,7 @@ declare const colors: {
     readonly semanticRedLight: "#FEF5F5";
     readonly semanticRedDarkText: "#A21A21";
     readonly semanticExtraDarkRed: "#891E23";
+    readonly semanticGreenLight: "#E6ECE3";
     readonly semanticGreen: "#349E02";
     readonly semanticGreenDark: "#2B621B";
     readonly achromaticOffWhite: "#FEFEFE";
