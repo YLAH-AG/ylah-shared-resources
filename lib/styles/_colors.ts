@@ -50,8 +50,12 @@ const colors = {
   offGraysLightIcons: '#809294',
 
   // Evaluation
-  evaluationlightGreen: '#d8e7b9',
+  evaluationMainRed8: '#c47472',
+  evaluationMainPurple6: '#968491',
   evaluationLightBlue: '#CEDBF2',
+  evaluationMainBlue4: '#778c9d',
+  evaluationlightGreen: '#d8e7b9',
+  evaluationMainGreen2: '#adcc9c',
 
   // Outline
   outlineOrange: '#AD883B',
