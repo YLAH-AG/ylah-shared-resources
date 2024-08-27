@@ -45,5 +45,8 @@ declare const colors: {
     readonly evaluationlightGreen: "#d8e7b9";
     readonly evaluationMainGreen2: "#adcc9c";
     readonly outlineOrange: "#AD883B";
+    readonly white: "#FFF";
+    readonly black: "#000";
+    readonly transparent: "#00000000";
 };
 export default colors;

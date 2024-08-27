@@ -59,6 +59,11 @@ const colors = {
 
   // Outline
   outlineOrange: '#AD883B',
+
+  // Base colors
+  white: '#FFF',
+  black: '#000',
+  transparent: "#00000000"
 } as const;
 
 export default colors;
