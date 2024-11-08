@@ -1,6 +1,6 @@
 declare const colors: {
-    readonly blue100: "#305971";
-    readonly blue90: "#356781";
+    readonly blue100: "#0D546E";
+    readonly blue90: "#2E6780";
     readonly blue80: "#4c788f";
     readonly blue70: "#62899d";
     readonly blue60: "#799aab";
@@ -10,12 +10,12 @@ declare const colors: {
     readonly blue20: "#d2dde3";
     readonly blue10: "#e9eef1";
     readonly blue7: "#f4f7f8";
-    readonly blueExtraDark: "#203C4C";
-    readonly blueChipDarkBlue: "#26485A";
-    readonly mintMain: "#EBF8F8";
-    readonly mintBackground: "#f6fbfb";
-    readonly mintMedium: "#F4FAFA";
-    readonly mintVeryLight: "#FAFDFD";
+    readonly blueExtraDark: "#01293A";
+    readonly blueChipDarkBlue: "#004157";
+    readonly mintMain: "#E9EEF1";
+    readonly mintBackground: "#F9FBFB";
+    readonly mintMedium: "#F4F7F8";
+    readonly mintVeryLight: "#F9FBFB";
     readonly semanticOrange: "#FFC857";
     readonly semanticOrangeLight: "#FFF4DD";
     readonly semanticRed: "#E5323B";
