@@ -1,4 +1,203 @@
-// Primary & Secondary Colors
+$petrol-1300: #001e2b;
+$petrol-1200: #01293a;
+$petrol-1100: #004157;
+$petrol-1000: #0d546e;
+$petrol-900: #2e6780;
+$petrol-800: #4c788f;
+$petrol-700: #62899d;
+$petrol-600: #799aab;
+$petrol-500: #a5bbc7;
+$petrol-400: #bcccd5;
+$petrol-300: #d2dde3;
+$petrol-200: #e9eef1;
+$petrol-100: #f4f7f8;
+$petrol-50: #f9fbfb;
+
+$achromatic-1300: #1c1d1d;
+$achromatic-1200: #363737;
+$achromatic-1100: #4f4f4f;
+$achromatic-1000: #636363;
+$achromatic-900: #6b6b6b;
+$achromatic-800: #747474;
+$achromatic-700: #828282;
+$achromatic-600: #888888;
+$achromatic-500: #919191;
+$achromatic-400: #d0d1d2;
+$achromatic-300: #e0e0e0;
+$achromatic-200: #ebebeb;
+$achromatic-100: #f2f2f2;
+$achromatic-50: #fefefe;
+
+$tinted-1300: #191d1f;
+$tinted-1200: #3f484e;
+$tinted-1100: #4c5657;
+$tinted-1000: #4e595a;
+$tinted-900: #505f62;
+$tinted-800: #53676c;
+$tinted-700: #5c7379;
+$tinted-600: #7b8b8d;
+$tinted-500: #809294;
+$tinted-400: #95a3a5;
+$tinted-300: #b0b9bb;
+$tinted-200: #ced4d5;
+$tinted-100: #e7eaea;
+$tinted-50: #f3f4f4;
+
+$hellblau-1300: #001029;
+$hellblau-1200: #00233d;
+$hellblau-1100: #123b68;
+$hellblau-1000: #2c5082;
+$hellblau-900: #385d8f;
+$hellblau-800: #5175aa;
+$hellblau-700: #6c90c6;
+$hellblau-600: #83a8e0;
+$hellblau-500: #99c4ff;
+$hellblau-400: #cbe1ff;
+$hellblau-300: #dfedff;
+$hellblau-200: #f0f6ff;
+$hellblau-100: #f8fbff;
+$hellblau-50: #fcfdff;
+
+$himbeer-1300: #230104;
+$himbeer-1200: #2b0004;
+$himbeer-1100: #54000d;
+$himbeer-1000: #712226;
+$himbeer-900: #ae4549;
+$himbeer-800: #da5f64;
+$himbeer-700: #f16165;
+$himbeer-600: #ff8889;
+$himbeer-500: #ffa3a2;
+$himbeer-400: #ffc3c0;
+$himbeer-300: #ffedea;
+$himbeer-200: #fef5f5;
+$himbeer-100: #fffcfc;
+$himbeer-50: #fffdfd;
+
+$creme-1300: #151003;
+$creme-1200: #231b07;
+$creme-1100: #453620;
+$creme-1000: #52442f;
+$creme-900: #6b5c45;
+$creme-800: #85745c;
+$creme-700: #a08d74;
+$creme-600: #bda78d;
+$creme-500: #d1bda1;
+$creme-400: #e0d3c0;
+$creme-300: #e8dfd1;
+$creme-200: #f1ece3;
+$creme-100: #fbf9f7;
+$creme-50: #fffefe;
+
+$orange-1300: #332300;
+$orange-1200: #5d4200;
+$orange-1100: #b8891a;
+$orange-1000: #d79e22;
+$orange-900: #f6b32a;
+$orange-800: #f9be43;
+$orange-700: #ffc857;
+$orange-600: #ffd177;
+$orange-500: #ffdea4;
+$orange-400: #ffe6b7;
+$orange-300: #feedc8;
+$orange-200: #fff4dd;
+$orange-100: #fff8eb;
+$orange-50: #fffefc;
+
+$green-1300: #021400;
+$green-1200: #042100;
+$green-1100: #113709;
+$green-1000: #2b621b;
+$green-900: #4e7d3e;
+$green-800: #719761;
+$green-700: #90b47f;
+$green-600: #adcc9c;
+$green-500: #c0d8a9;
+$green-400: #d8e7b9;
+$green-300: #e0ecc6;
+$green-200: #edf4df;
+$green-100: #fbfdf8;
+$green-50: #fefefc;
+
+// ---- ALIASES -----
+$color-brand-boldest: $petrol-1200;
+$color-brand-bold: $petrol-1000;
+
+// Text
+$color-text-brand-boldest: $petrol-1200;
+$color-text-brand-bold: $petrol-1000;
+
+$color-text-boldest: $achromatic-1300;
+$color-text-bold: $tinted-1100;
+$color-text-medium: $tinted-1000;
+$color-text-subtle: $tinted-800;
+$color-text-subtlest: $tinted-700;
+
+$color-text-inactive-bold: $achromatic-1000;
+$color-text-inactive-medium: $achromatic-900;
+$color-text-inactive-subtle: $achromatic-800;
+
+$color-text-inverse: $achromatic-50;
+$color-text-success-inverse: $hellblau-1000;
+$color-text-danger-bold: $himbeer-1000;
+
+// Icon
+$color-icon-medium: $tinted-1000;
+$color-icon-subtle: $tinted-600;
+$color-icon-subtlest: $tinted-500;
+
+$color-icon-inverse: $achromatic-50;
+
+// Background
+$color-background-bold: $petrol-300;
+$color-background-medium: $petrol-200;
+$color-background-subtle: $petrol-100;
+$color-background-subtlest: $petrol-50;
+
+$color-background-inactive-medium: $achromatic-300;
+$color-background-inactive-subtle: $achromatic-200;
+$color-background-inactive-subtlest: $achromatic-100;
+
+//Chart
+$color-chart-sequential-10: $himbeer-800;
+$color-chart-sequential-9: $himbeer-700;
+$color-chart-sequential-8: $himbeer-600;
+$color-chart-sequential-7: $himbeer-500;
+$color-chart-sequential-6: $himbeer-400;
+$color-chart-sequential-5: $petrol-600;
+$color-chart-sequential-4: $petrol-500;
+$color-chart-sequential-3: $green-700;
+$color-chart-sequential-2: $green-600;
+$color-chart-sequential-1: $green-400;
+
+// Outline
+$color-outline-divider: $tinted-100;
+$color-outline-navigation: $petrol-400;
+$color-outline-tinted: $tinted-600;
+$color-outline-creme: $creme-800;
+
+$color-outline-input-subtle: $tinted-500;
+$color-outline-input-subtlest: $tinted-200;
+
+$color-success-bold: $hellblau-500;
+$color-success-medium: $hellblau-400;
+$color-success-subtle: $hellblau-300;
+
+$color-warning-bolder: $orange-500;
+$color-warning-bold: $orange-400;
+$color-warning-medium: $orange-300;
+$color-warning-subtle: $orange-200;
+
+$color-danger-boldest: $himbeer-1100;
+$color-danger-bold: $himbeer-1000;
+$color-danger-medium: $himbeer-900;
+$color-danger-subtle: $himbeer-200;
+
+$color-accent-bold: $hellblau-500;
+$color-accent-medium: $hellblau-400;
+$color-accent-subtle: $hellblau-300;
+
+// TODO: remove old branding when all subtasks from YLH-3524 are done
+// -------------------- old --------------------
 
 $blue-100: #0d546e;
 $blue-90: #2e6780;
@@ -11,7 +210,7 @@ $blue-30: #bcccd5;
 $blue-20: #d2dde3;
 $blue-10: #e9eef1;
 $blue-7: #f4f7f8;
-$blue-extra-dark: #01293a;
+
 $blue-chip-dark-blue: #004157;
 
 $mint-main: #e9eef1;
@@ -53,7 +252,7 @@ $evaluation-main-red-8: #c47472;
 $evaluation-main-purple-6: #968491;
 $evaluation-main-blue-4: #778c9d;
 $evaluation-main-green-2: #adcc9c;
-$evaluation-light-green: #d8e7b9;
+$evaluation-light-green-: #d8e7b9;
 $evaluation-light-blue: #cedbf2;
 
 // Outline
