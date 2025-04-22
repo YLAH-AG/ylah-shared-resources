@@ -120,10 +120,12 @@ $green-50: #fefefc;
 
 // ---- ALIASES -----
 $color-brand-boldest: $petrol-1200;
+$color-brand-bolder: $petrol-1100;
 $color-brand-bold: $petrol-1000;
 
 // Text
 $color-text-brand-boldest: $petrol-1200;
+$color-text-brand-bolder: $petrol-1100;
 $color-text-brand-bold: $petrol-1000;
 
 $color-text-boldest: $achromatic-1300;
@@ -195,68 +197,6 @@ $color-danger-subtle: $himbeer-200;
 $color-accent-bold: $hellblau-500;
 $color-accent-medium: $hellblau-400;
 $color-accent-subtle: $hellblau-300;
-
-// TODO: remove old branding when all subtasks from YLH-3524 are done
-// -------------------- old --------------------
-
-$blue-100: #0d546e;
-$blue-90: #2e6780;
-$blue-80: #4c788f;
-$blue-70: #62899d;
-$blue-60: #799aab;
-$blue-50: #8faab9;
-$blue-40: #a5bbc7;
-$blue-30: #bcccd5;
-$blue-20: #d2dde3;
-$blue-10: #e9eef1;
-$blue-7: #f4f7f8;
-
-$blue-chip-dark-blue: #004157;
-
-$mint-main: #e9eef1;
-$mint-background: #f9fbfb;
-$mint-medium: #f4f7f8;
-$mint-very-light: #f9fbfb;
-
-// Semantic Color
-$semantic-orange: #ffc857;
-$semantic-orange-light: #fff4dd;
-$semantic-red: #e5323b;
-$semantic-red-light: #fef5f5;
-$semantic-red-dark-text: #a21a21;
-$semantic-extra-dark-red: #891e23;
-$semantic-green-light: #e6ece3;
-$semantic-green: #349e02;
-$semantic-green-dark: #2b621b;
-
-// Achromatic
-$achromatic-off-white: #fefefe;
-$achromatic-off-black: #1c1d1d;
-
-$achromatic-grey-100: #4f4f4f;
-$achromatic-grey-80: #828282;
-$achromatic-grey-60: #d0d1d2;
-$achromatic-grey-50: #e0e0e0;
-$achromatic-grey-30: #ebebeb;
-$achromatic-grey-20: #f2f2f2;
-$achromatic-grey-10: #fafbfc;
-
-// Off-grays
-$off-grays-dark: #4c5657;
-$off-grays-medium-wcag: #4e595a;
-$off-grays-navigation: #5c7379;
-$off-grays-light-icons: #809294;
-
-// Evaluation
-$evaluation-main-red-8: #c47472;
-$evaluation-main-purple-6: #968491;
-$evaluation-main-blue-4: #778c9d;
-$evaluation-main-green-2: #adcc9c;
-$evaluation-light-green-: #d8e7b9;
-$evaluation-light-blue: #cedbf2;
-
-// Outline
-$outline-orange: #ad883b;
 
 // Base colors
 $white: #fff;
