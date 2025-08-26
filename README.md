@@ -2,7 +2,7 @@
 
 ---
 
-Run `npm install git+ssh://git@github.com:YLAH-AG/ylah-shared-resources.git#semver:^0.24.0`
+Run `npm install git+ssh://git@github.com:YLAH-AG/ylah-shared-resources.git#semver:^0.25.0`
 
 ## Updating resources
 
