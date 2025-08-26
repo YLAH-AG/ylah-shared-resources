@@ -23,6 +23,7 @@ declare const colors: {
     readonly colorIconSubtle: string;
     readonly colorIconSubtlest: string;
     readonly colorIconInverse: string;
+    readonly colorIconInactiveSubtler: string;
     readonly colorBackgroundBold: string;
     readonly colorBackgroundMedium: string;
     readonly colorBackgroundSubtle: string;

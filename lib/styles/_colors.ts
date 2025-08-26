@@ -158,6 +158,7 @@ const colorAliases = {
   colorIconSubtle: colorCodes.tinted600,
   colorIconSubtlest: colorCodes.tinted500,
   colorIconInverse: colorCodes.achromatic50,
+  colorIconInactiveSubtler: colorCodes.achromatic600,
 
   // Background
   colorBackgroundBold: colorCodes.petrol300,
